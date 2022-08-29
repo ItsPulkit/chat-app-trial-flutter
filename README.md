@@ -1,0 +1,1 @@
+# chat-app-trial-flutter
